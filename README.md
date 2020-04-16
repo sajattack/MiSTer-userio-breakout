@@ -1,2 +1,2 @@
 # MiSTer-userio-breakout
-![img](https://i.imgur.com/LlIFh12.png)
+![img](https://i.imgur.com/7VYhu9u.png)
